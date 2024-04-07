@@ -1,5 +1,5 @@
 # GuessTheStates_USA
-Interactive game to guess all the 50 states of USA using Tkinter library
+Interactive game to guess all the 50 states of USA using Turtle library
 
 - The program will ask you to introduce an state name
 - If your answer is correct, it will be shown on the map
